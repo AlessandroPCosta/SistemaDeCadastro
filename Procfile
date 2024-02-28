@@ -1,1 +1,1 @@
-web gunicorn django1.wsgi --lig-file -
+web gunicorn django2.wsgi --lig-file -
